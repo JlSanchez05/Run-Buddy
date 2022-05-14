@@ -67,3 +67,10 @@ footer a {
 section {
   padding: 60px;
 }
+
+.hero {
+  background-image: url("../imagesG/hero-bg.jpeg");
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+}
