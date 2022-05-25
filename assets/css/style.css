@@ -69,7 +69,7 @@ section {
 }
 
 .hero {
-  background-image: url("../imagesG/hero-bg.jpeg");
+  background-image: url("/assets/imagesG/flipped-hero-image.jpeg");
   height: 600px;
   background-size: cover;
   background-position: center;
