@@ -93,7 +93,6 @@ section {
 
 .hero {
   align-items: flex-start;
-  background-image: url("/assets/imagesG/flipped-hero-image.jpeg");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -101,6 +100,7 @@ section {
   flex-wrap: wrap;
   background-attachment: fixed;
   background-position: 80%;
+  background-image: url("/assets/imagesG/flipped-hero-image.jpeg");
 }
 .hero-cta {
   width: 35%;
